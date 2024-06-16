@@ -1,2 +1,2 @@
 # ACKSIIRecon
-Automatization of Recnnaissance rolls for ACKS II TTRPG
+Automatization of Reconnaissance rolls for ACKS II TTRPG
