@@ -8,4 +8,11 @@
 // open data.json for reading
 // let i = number of armies included
 // loop 1 to i
-//  
+//  find opposing army size and add apporiate number to rollModifier
+//  check proximity of the armies and add apporiate number to rollModifier
+//  find & compare Leadership scores of both army commanders
+//      if opposingArmyCommanderLeadership > thisArmyCommanderLeadership add -1 to rollModifier
+//      if opposingArmyCommanderLeadership < thisArmyCommanderLeadership add +1 to rollModifier
+//      else do not add anything
+// check if thisArmy has magic surveillance listed and add listed number to rollModifier
+// 
